@@ -7,9 +7,9 @@ The Finance Fusion application is an iOS application built on the foundation of 
 ## Folder Structure 
 
 <p align="center">
-  <img src="https://github.com/oykuhazer/FinanceFusion/assets/130215854/c1c45f8d-ef67-4abf-b0b2-09ed5a4cb126" alt="zyro-image" width="200" height="450" />
-  <img src="https://github.com/oykuhazer/FinanceFusion/assets/130215854/75817cd5-9de0-4846-83f7-11650235a242" alt="zyro-image" width="200" height="450" />
-    <img src="https://github.com/oykuhazer/FinanceFusion/assets/130215854/a11b11cb-3dbd-4604-9fe4-1a9c107d3708" alt="zyro-image" width="200" height="450" />
+  <img src="https://github.com/oykuhazer/FinanceFusion/assets/130215854/99729fd0-7742-4d72-9f1d-6c62f43c3826" alt="zyro-image" width="200" height="450" />
+  <img src="https://github.com/oykuhazer/FinanceFusion/assets/130215854/dcb57b93-78c2-45be-9586-0e61b1685d58" alt="zyro-image" width="200" height="450" />
+    <img src="https://github.com/oykuhazer/FinanceFusion/assets/130215854/44954be1-3c2c-407d-8f18-3be73c2e26a8" alt="zyro-image" width="200" height="450" />
   </p>
   
 ## Authentication Screen
@@ -17,7 +17,7 @@ The Finance Fusion application is an iOS application built on the foundation of 
 This page represents the identity verification screen. It contains buttons that allow users to sign up for or log into the application.
 
 <p align="center">
-  <img src="https://github.com/oykuhazer/FinanceFusion/assets/130215854/37e34e2b-8a9c-4fcd-bc1f-49ddbe03c72d" alt="zyro-image" width="200" height="450">
+  <img src="https://github.com/oykuhazer/FinanceFusion/assets/130215854/841729b3-5b0f-4dc5-87ce-4d12f781ffde" alt="zyro-image" width="200" height="450">
 </p>
 
 ## Sign Up Bottom Sheet Screen
@@ -25,8 +25,8 @@ This page represents the identity verification screen. It contains buttons that 
 This page includes a bottom sheet where users can register and functions related to the registration process. Additionally, there is a manager class for registering users using Firebase.
 
 <p align="center">
-  <img src="https://github.com/oykuhazer/FinanceFusion/assets/130215854/f2e282a2-95b8-442c-b538-a8c903e16778" alt="zyro-image" width="200" height="450" />
-  <img src="https://github.com/oykuhazer/FinanceFusion/assets/130215854/5010f4a0-3d72-42d5-8aa9-645147d77cb6" alt="zyro-image" width="200" height="450" />
+  <img src="https://github.com/oykuhazer/FinanceFusion/assets/130215854/38fa737e-be8b-459f-b658-e12d4e506c8a" alt="zyro-image" width="200" height="450" />
+  <img src="https://github.com/oykuhazer/FinanceFusion/assets/130215854/288f15f1-2e3b-4344-a134-d6875ce092aa" alt="zyro-image" width="200" height="450" />
   </p>
 
 ## Log In Bottom Sheet Screen
@@ -34,7 +34,7 @@ This page includes a bottom sheet where users can register and functions related
 This page contains a Swift class that constitutes the login screen and provides user login using Firebase operation manager.
 
 <p align="center">
-  <img src="https://github.com/oykuhazer/FinanceFusion/assets/130215854/83fce8e2-d22b-4e8d-9d91-434a1696cd40" alt="zyro-image" width="200" height="450">
+  <img src="https://github.com/oykuhazer/FinanceFusion/assets/130215854/075d5477-801a-4dc2-b096-777dfac83d66" alt="zyro-image" width="200" height="450">
 </p>
 
 ## Main Currency Screen
@@ -54,7 +54,7 @@ This page displays exchange rates, allows users to change the selected currency,
 Menu Navigation: The application allows transitioning from the main screen to two other sub-screens (Currency Conversion and Portfolio).
 
 <p align="center">
-  <img src="https://github.com/oykuhazer/FinanceFusion/assets/130215854/69a63c9e-58c9-4433-a3ca-6ea02ad8340e" alt="zyro-image" width="200" height="450">
+  <img src="https://github.com/oykuhazer/FinanceFusion/assets/130215854/ca31982e-0ea7-451f-9082-b83254bada59" alt="zyro-image" width="200" height="450">
 </p>
 
 ## Currency Detail Screen
@@ -80,9 +80,9 @@ This class is a view controller used to display the details of a specific curren
 
 
 <p align="center">
-  <img src="https://github.com/oykuhazer/FinanceFusion/assets/130215854/35fab982-d388-4423-9c8c-4f7706ea8077" alt="zyro-image" width="200" height="450" />
-   <img src="https://github.com/oykuhazer/FinanceFusion/assets/130215854/94c47d62-c47a-4e20-ae1f-e7e5ff33dd9f" alt="zyro-image" width="200" height="450" />
-  <img src="https://github.com/oykuhazer/FinanceFusion/assets/130215854/caee17d6-d7d9-45e8-a0a1-cfc05e83c28c" alt="zyro-image" width="200" height="450" />
+  <img src="https://github.com/oykuhazer/FinanceFusion/assets/130215854/a48fdebd-04ed-43dc-b6a9-025f59dc9d8f" alt="zyro-image" width="200" height="450" />
+   <img src="https://github.com/oykuhazer/FinanceFusion/assets/130215854/fd8ddf24-d93d-4ab7-af9d-0d62e7451888" alt="zyro-image" width="200" height="450" />
+  <img src="https://github.com/oykuhazer/FinanceFusion/assets/130215854/d6b30842-4233-40b3-bde0-7d7004b02fff" alt="zyro-image" width="200" height="450" />
   </p>
 
 ## Converter Screen
@@ -97,10 +97,9 @@ On this page, currency conversion functionality is provided using RxSwift.
 - User Interface (UI): User interface elements (textfield, label, button, etc.) are created and organized. Users can select "From Currency" and "To Currency" options and enter an amount for conversion. Additionally, the option to reverse the currency pair is provided.
 
 <p align="center">
-  <img src="https://github.com/oykuhazer/FinanceFusion/assets/130215854/c49579af-694f-4e74-9315-d3cf5f5973f4" alt="zyro-image" width="200" height="450" />
-   <img src="https://github.com/oykuhazer/FinanceFusion/assets/130215854/b565c33f-6805-4cbd-9edb-b4583d4972d9" alt="zyro-image" width="200" height="450" />
-   <img src="https://github.com/oykuhazer/FinanceFusion/assets/130215854/ca2f3ad4-fd0d-40cd-8a7c-f1003a4867f6" alt="zyro-image" width="200" height="450" />
-  <img src="https://github.com/oykuhazer/FinanceFusion/assets/130215854/91bec4d1-f1b3-453d-9fbf-6fca81d7aae4" alt="zyro-image" width="200" height="450" />
+  <img src="https://github.com/oykuhazer/FinanceFusion/assets/130215854/132385d6-5980-4740-8bb0-fcd4b9f838ad" alt="zyro-image" width="200" height="450" />
+   <img src="https://github.com/oykuhazer/FinanceFusion/assets/130215854/dfacc500-259b-4fed-b7c1-2c9b17a79eaf" alt="zyro-image" width="200" height="450" />
+   <img src="https://github.com/oykuhazer/FinanceFusion/assets/130215854/51ad3676-4dc0-439f-b58e-45c0129709fb" alt="zyro-image" width="200" height="450" />
   </p>
 
 ## Portfolio Screen
@@ -117,7 +116,7 @@ User interactions and data streams are managed using **RxSwift**.
 - deletePortfolioItem(_ item:): Deletes a specified portfolio item. This is used to remove the item from the database.
 
 <p align="center">
-  <img src="https://github.com/oykuhazer/FinanceFusion/assets/130215854/23c002b1-2314-49ac-97b3-2db1bd5a9261" alt="zyro-image" width="200" height="450" />
-  <img src="https://github.com/oykuhazer/FinanceFusion/assets/130215854/a7a3b631-c43f-49c7-b57e-80a752475e4d" alt="zyro-image" width="200" height="450" />
+  <img src="https://github.com/oykuhazer/FinanceFusion/assets/130215854/f05c4684-4b22-43d2-a419-3cc6505a4cdf" alt="zyro-image" width="200" height="450" />
+  <img src="https://github.com/oykuhazer/FinanceFusion/assets/130215854/2bc7b386-3b81-4527-bf28-83e33b07c6de" alt="zyro-image" width="200" height="450" />
   </p>
 
